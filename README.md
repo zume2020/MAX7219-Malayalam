@@ -2,7 +2,7 @@
 
  Cascaded Malayalam Scrolling text display using MAX7219 dot matrix and Arduino.
 
-[MD_MAX72XX-Font-Editor](https://pjrp.github.io/MDParolaFontEditor)
+[Here is an awesome MAX72XX font editor :fire:](https://pjrp.github.io/MDParolaFontEditor)
 
 ## Hardware
 * Two cascaded MAX7219 dot matrix module.
