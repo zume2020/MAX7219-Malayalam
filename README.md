@@ -1,6 +1,7 @@
 # MAX7219-Malayalam
 
- Cascaded Malayalam Scrolling text display using MAX7219 dot matrix and Arduino.
+Cascaded Malayalam Scrolling text display using MAX7219 dot matrix and Arduino.  
+Displays മലയാളം (Malayayalam, a native Indian language) in LED matrix display.
 
 [Here is an awesome MAX72XX font editor :fire:](https://pjrp.github.io/MDParolaFontEditor)
 
